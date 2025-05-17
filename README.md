@@ -88,5 +88,7 @@
 - Команд, работающих по DDD/Clean Architecture.
 - Проектов, где важны тестируемость и гибкость.
 
+- - -
+
 ### **Контакты**
 [Telegram](https://t.me/kayotklimenko)
